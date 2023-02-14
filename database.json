@@ -1,0 +1,39 @@
+{
+  "Todos": [
+    {
+      "id": 1,
+      "name": "sacar al perro",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "sacar lavavajillas",
+      "isDone": true
+    },
+    {
+      "id": 3,
+      "name": "tender ropa",
+      "isDone": true
+    },
+    {
+      "id": 4,
+      "name": "llamar abuelita",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "name": "repasar redux",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "name": "leer documentación de custom hook",
+      "isDone": true
+    },
+    {
+      "id": 7,
+      "name": "dormir...",
+      "isDone": false
+    }
+  ]
+}
