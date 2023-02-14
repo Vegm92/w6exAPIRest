@@ -9,7 +9,8 @@
   },
   "scripts": {
     "start": "node index",
-    "start:local": "json-server database.json"
+    "start:local": "json-server database.json",
+    "build": "install"
   },
   "author": "",
   "license": "ISC"
